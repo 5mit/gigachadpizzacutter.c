@@ -1,6 +1,6 @@
 # gigachadpizzacutter.c
 
-The gigachad way to cut a pizza!
+The GIGACHAD way to cut a pizza!
 
 # Background
 I was inspired to make this by: https://www.youtube.com/watch?v=IeCxjcMyY-M
